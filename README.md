@@ -1,4 +1,4 @@
-1st Project
+2nd Project
 
 '누가 25를 먼저 눌렀을까?': TCP 통신을 이용한 대결 구도 게임, Thread / UI 응용을 통해 퍼즐 게임 제어 및 동작
 
